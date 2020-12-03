@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+io.pan.graphapi.starter.application.ApplicationGraphClientConfiguration,\
+io.pan.graphapi.starter.delegate.DelegateGraphClientConfiguration
